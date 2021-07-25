@@ -17,7 +17,6 @@
   },
   "devDependencies": {
     "@vue/component-compiler-utils": "^3.2.2",
-    "posthtml-include": "^1.7.1",
     "sass": "^1.36.0",
     "vue-template-compiler": "^2.6.14"
   }
